@@ -1,5 +1,8 @@
 _repo: Pas-perdus_74506
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74506-h/images/cover.jpg
 creator:
   author:
     agent_name: Fagus
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '57025'
     url: http://www.gutenberg.org/2009/agents/57025
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74506#Pas-perdus
 gutenberg_issued: '2024-10-02'
 gutenberg_type: Text
 identifiers:
